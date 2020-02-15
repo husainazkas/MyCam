@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCam</string>
+    <string name="bttn_cam">Camera</string>
+    <string name="bttn_browse">Browse</string>
+</resources>
